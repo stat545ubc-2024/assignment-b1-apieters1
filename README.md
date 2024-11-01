@@ -33,6 +33,8 @@ The assignment aimed to help become familiar with making a function by:
 
 -   **Assignment_B1.md**: The knitted output of Assignment_B1.Rmd.
 
+-   **Assignment_B1_files/figure-gfm**: The output images file for the assignment.
+
 
 ### How to Run Code in This GitHub Repository {#how-to-run-code-in-this-github-repository}
 
